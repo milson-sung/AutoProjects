@@ -39,7 +39,7 @@ The objective of this project is to demonstrate practical skills in PLC programm
 
 1. Install CODESYS V3.
 
-2. Clone or download this repository.
+2. Clone or download this repository. / Alternatively just download the project file.
 
 3. Open the project file in CODESYS V3.
 
