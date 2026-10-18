@@ -1,5 +1,5 @@
 # SiloMixerDoser
-CODESYS V3 Automation Project
+CODESYS V3.5 Automation Project
 
 **Overview**
 
@@ -23,7 +23,7 @@ CODESYS V3
 
 -IEC 61131-3 PLC Programming
 
--Structured Text (ST)
+-Structured Text (ST) + OOP
 
 -Function Block Diagram / Function Blocks
 
@@ -37,7 +37,7 @@ The objective of this project is to demonstrate practical skills in PLC programm
 
 **Getting Started**
 
-1. Install CODESYS V3.
+1. Install CODESYS V3.5.
 
 2. Clone or download this repository. / Alternatively just download the project file.
 
