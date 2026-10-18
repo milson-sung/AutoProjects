@@ -3,7 +3,7 @@ CODESYS V3 Automation Project
 
 **Overview**
 
-These personal house projects demonstrate PLC programming and industrial automation using CODESYS V3. It simulates an automated process involving motor control, mixing, and material dosing, with an HMI visualization for monitoring and operation.
+These home projects demonstrate PLC programming and industrial automation using CODESYS V3. It simulates an automated process involving motor control, mixing, and material dosing, with an HMI visualization for monitoring and operation.
 
 **Features**
 
