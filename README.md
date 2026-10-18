@@ -1,51 +1,51 @@
 # MilsonSung
 CODESYS V3 Automation Project
 
-Overview
+**Overview**
 
 This project demonstrates PLC programming and industrial automation using CODESYS V3. It simulates an automated process involving motor control, mixing, and material dosing, with an HMI visualization for monitoring and operation.
 
-Features
+**Features**
 
-PLC Programming: Structured Text (ST), Function Blocks (FB), and Continuous Function Chart (CFC).
+-PLC Programming: Structured Text (ST), Function Blocks (FB), and Continuous Function Chart (CFC).
 
-Process Control: Automated motor, VFD, mixer, and dosing control.
+-Process Control: Automated motor, VFD, mixer, and dosing control.
 
-Sequence Control: Step-by-step process execution with timers and control logic.
+-Sequence Control: Step-by-step process execution with timers and control logic.
 
-Safety Interlocks: Handling of emergency stops, insufficient material levels, and process interruptions.
+-Safety Interlocks: Handling of emergency stops, insufficient material levels, and process interruptions.
 
-HMI Visualization: Graphical interface for monitoring process states and visualizing machine operations.
+-HMI Visualization: Graphical interface for monitoring process states and visualizing machine operations.
 
-Technologies
+**Technologies**
 
 CODESYS V3
 
-IEC 61131-3 PLC Programming
+-IEC 61131-3 PLC Programming
 
-Structured Text (ST)
+-Structured Text (ST)
 
-Function Block Diagram / Function Blocks
+-Function Block Diagram / Function Blocks
 
-Continuous Function Chart (CFC)
+-Continuous Function Chart (CFC)
 
-HMI Visualization
+-HMI Visualization
 
-Project Objectives
+**Project Objectives**
 
-The objective of this project is to demonstrate practical skills in PLC programming, automation logic, process sequencing, and HMI development. It combines multiple PLC programming approaches to simulate an automated industrial process.
+The objective of this project is to demonstrate practical skills in PLC programming, automation logic, process sequencing, and HMI development. It combines multiple PLC programming approaches to simulate an automated industrial process. 
 
-Getting Started
+**Getting Started**
 
-Install CODESYS V3.
+1. Install CODESYS V3.
 
-Clone or download this repository.
+2. Clone or download this repository.
 
-Open the project file in CODESYS V3.
+3. Open the project file in CODESYS V3.
 
-Compile the application and resolve any environment-specific configuration issues.
+4. Compile the application and resolve any environment-specific configuration issues.
 
-Start the simulation or run the application on a compatible target.
+5. Start the simulation or run the application on a compatible target.
 
-Open the HMI visualization to observe the process and test its functionality.
+6. Open the HMI visualization to observe the process and test its functionality.
 
