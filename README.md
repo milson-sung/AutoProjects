@@ -47,5 +47,4 @@ The objective of this project is to demonstrate practical skills in PLC programm
 
 5. Start the simulation or run the application on a compatible target.
 
-6. Open the HMI visualization to observe the process and test its functionality.
 
