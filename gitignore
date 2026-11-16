@@ -1,0 +1,79 @@
+==========================================
+
+CODESYS V3.5 Project - .gitignore
+
+==========================================
+
+Temporary files
+
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*~
+
+CODESYS backup and recovery files
+
+*.backup
+*.restore
+*.autosave
+
+Build and compilation artifacts
+
+*.compileinfo
+*.compiled
+*.app
+*.crc
+*.hex
+*.bin
+
+CODESYS temporary folders
+
+__temp/
+Temp/
+temp/
+Cache/
+cache/
+Build/
+build/
+Output/
+
+IDE and local workspace settings
+
+.vscode/
+.idea/
+*.user
+*.suo
+
+Operating system files
+
+.DS_Store
+Thumbs.db
+desktop.ini
+
+Logs
+
+*.log
+
+Archive files (optional)
+
+*.zip
+*.7z
+*.rar
+
+==========================================
+
+Keep important CODESYS project files
+
+==========================================
+
+Do NOT ignore:
+
+*.project
+
+*.library
+
+*.xml
+
+*.projectarchive
