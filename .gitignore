@@ -1,11 +1,8 @@
-==========================================
+# ==========================================
+# CODESYS V3.5 Project - .gitignore
+# ==========================================
 
-CODESYS V3.5 Project - .gitignore
-
-==========================================
-
-Temporary files
-
+# Temporary files
 *.tmp
 *.temp
 *.bak
@@ -13,14 +10,17 @@ Temporary files
 *.orig
 *~
 
-CODESYS backup and recovery files
+# CODESYS precompile cache
+PrecompileCache/
+**/PrecompileCache/
+*.precompilecache
 
+# CODESYS backup and recovery files
 *.backup
 *.restore
 *.autosave
 
-Build and compilation artifacts
-
+# Build and compilation artifacts
 *.compileinfo
 *.compiled
 *.app
@@ -28,8 +28,7 @@ Build and compilation artifacts
 *.hex
 *.bin
 
-CODESYS temporary folders
-
+# CODESYS temporary folders
 __temp/
 Temp/
 temp/
@@ -39,41 +38,31 @@ Build/
 build/
 Output/
 
-IDE and local workspace settings
-
+# IDE and local workspace settings
 .vscode/
 .idea/
 *.user
 *.suo
 
-Operating system files
-
+# Operating system files
 .DS_Store
 Thumbs.db
 desktop.ini
 
-Logs
-
+# Logs
 *.log
 
-Archive files (optional)
-
+# Archive files (optional)
 *.zip
 *.7z
 *.rar
 
-==========================================
+# ==========================================
+# Important CODESYS project files
+# ==========================================
 
-Keep important CODESYS project files
-
-==========================================
-
-Do NOT ignore:
-
-*.project
-
-*.library
-
-*.xml
-
-*.projectarchive
+# Keep these files tracked (no ignore rules needed):
+# *.project
+# *.library
+# *.xml
+# *.projectarchive
